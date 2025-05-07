@@ -11,7 +11,7 @@ This project involved performing various levels of data analysis using Python. T
 
 ---
 
-## 🛠Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Python**
 - **Pandas**
